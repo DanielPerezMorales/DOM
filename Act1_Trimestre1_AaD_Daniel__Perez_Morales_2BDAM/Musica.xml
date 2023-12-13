@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Musica>
+    <Cantantes>
+    <Cantante id="1">
+
+        <nombre>Michael Joseph Jackson</nombre>
+        
+        <nombre_artistico>Michael Jackson</nombre_artistico>
+        
+        <nacionalidad>Estados Unidos</nacionalidad>
+
+        <Género>Pop</Género>
+
+        <edad>50</edad>
+        
+        <Albumes>10</Albumes>
+
+    </Cantante>
+
+
+    <Cantante id="2">
+
+        <nombre>Benito Antonio Martinez Ocasio</nombre>
+        
+        <nombre_artistico>Bad Bunny</nombre_artistico>
+        
+        <nacionalidad>Puerto Rico</nacionalidad>
+
+        <Género>Urbano</Género>
+
+        <edad>29</edad>
+        
+        <Albumes>5</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="3">
+
+        <nombre>Pablo Moreno de Alborán Ferrándiz</nombre>
+        
+        <nombre_artistico>Pablo Alborán</nombre_artistico>
+        
+        <nacionalidad>España</nacionalidad>
+
+        <Género>Pop</Género>
+
+        <edad>34</edad>
+        
+        <Albumes>5</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="4">
+
+        <nombre>Luis Miguel</nombre>
+        
+        <nombre_artistico>Luis Miguel Gallego Basteri</nombre_artistico>
+        
+        <nacionalidad>Mexico</nacionalidad>
+
+        <Género>Balada</Género>
+
+        <edad>53</edad>
+        
+        <Albumes>34</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="5">
+
+        <nombre>Elvis Aaron Presley​</nombre>
+        
+        <nombre_artistico>Elvis Presley</nombre_artistico>
+        
+        <nacionalidad>Estados Unidos</nacionalidad>
+
+        <Género>Rock</Género>
+
+        <edad>42</edad>
+        
+        <Albumes>23</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="6">
+
+        <nombre>Salomón Villada Hoyos</nombre>
+        
+        <nombre_artistico>Feid</nombre_artistico>
+        
+        <nacionalidad>Colombia</nacionalidad>
+
+        <Género>Urbano</Género>
+
+        <edad>31</edad>
+        
+        <Albumes>7</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="7">
+
+        <nombre>José Plácido Domingo Embil</nombre>
+        
+        <nombre_artistico>Plácido Domingo</nombre_artistico>
+        
+        <nacionalidad>Español</nacionalidad>
+
+        <Género>Opera</Género>
+
+        <edad>82</edad>
+        
+        <Albumes>36</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="8">
+
+        <nombre>Francis Albert Sinatra</nombre>
+        
+        <nombre_artistico>Frank Sinatra</nombre_artistico>
+        
+        <nacionalidad>Estados Unidos</nacionalidad>
+
+        <Género>Pop tradicional</Género>
+
+        <edad>82</edad>
+        
+        <Albumes>60</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="9">
+
+        <nombre>Mauro Ezequiel Lombardo Quiroga</nombre>
+        
+        <nombre_artistico>Duki</nombre_artistico>
+        
+        <nacionalidad>Argentina</nacionalidad>
+
+        <Género>Urbano</Género>
+
+        <edad>27</edad>
+        
+        <Albumes>6</Albumes>
+
+    </Cantante>
+    
+    <Cantante id="10">
+
+        <nombre>Ray Charles Robinson</nombre>
+        
+        <nombre_artistico>Ray Charles</nombre_artistico>
+        
+        <nacionalidad>Estados Unidos</nacionalidad>
+
+        <Género>Jazz</Género>
+
+        <edad>73</edad>
+        
+        <Albumes>48</Albumes>
+
+    </Cantante>
+</Cantantes>
+</Musica>

@@ -1,0 +1,73 @@
+RAIZ: Musica
+
+ -Cantantes
+    -Cantante - id 1
+       - Etiqueta: nombre. Valor:Michael Joseph Jackson
+       - Etiqueta: nombre_artistico. Valor:Michael Jackson
+       - Etiqueta: nacionalidad. Valor:Estados Unidos
+       - Etiqueta: Género. Valor:Pop
+       - Etiqueta: edad. Valor:50
+       - Etiqueta: Albumes. Valor:10
+    -Cantante - id 2
+       - Etiqueta: nombre. Valor:Benito Antonio Martinez Ocasio
+       - Etiqueta: nombre_artistico. Valor:Bad Bunny
+       - Etiqueta: nacionalidad. Valor:Puerto Rico
+       - Etiqueta: Género. Valor:Urbano
+       - Etiqueta: edad. Valor:29
+       - Etiqueta: Albumes. Valor:5
+    -Cantante - id 3
+       - Etiqueta: nombre. Valor:Pablo Moreno de Alborán Ferrándiz
+       - Etiqueta: nombre_artistico. Valor:Pablo Alborán
+       - Etiqueta: nacionalidad. Valor:España
+       - Etiqueta: Género. Valor:Pop
+       - Etiqueta: edad. Valor:34
+       - Etiqueta: Albumes. Valor:5
+    -Cantante - id 4
+       - Etiqueta: nombre. Valor:Luis Miguel
+       - Etiqueta: nombre_artistico. Valor:Luis Miguel Gallego Basteri
+       - Etiqueta: nacionalidad. Valor:Mexico
+       - Etiqueta: Género. Valor:Balada
+       - Etiqueta: edad. Valor:53
+       - Etiqueta: Albumes. Valor:34
+    -Cantante - id 5
+       - Etiqueta: nombre. Valor:Elvis Aaron Presley​
+       - Etiqueta: nombre_artistico. Valor:Elvis Presley
+       - Etiqueta: nacionalidad. Valor:Estados Unidos
+       - Etiqueta: Género. Valor:Rock
+       - Etiqueta: edad. Valor:42
+       - Etiqueta: Albumes. Valor:23
+    -Cantante - id 6
+       - Etiqueta: nombre. Valor:Salomón Villada Hoyos
+       - Etiqueta: nombre_artistico. Valor:Feid
+       - Etiqueta: nacionalidad. Valor:Colombia
+       - Etiqueta: Género. Valor:Urbano
+       - Etiqueta: edad. Valor:31
+       - Etiqueta: Albumes. Valor:7
+    -Cantante - id 7
+       - Etiqueta: nombre. Valor:José Plácido Domingo Embil
+       - Etiqueta: nombre_artistico. Valor:Plácido Domingo
+       - Etiqueta: nacionalidad. Valor:Español
+       - Etiqueta: Género. Valor:Opera
+       - Etiqueta: edad. Valor:82
+       - Etiqueta: Albumes. Valor:36
+    -Cantante - id 8
+       - Etiqueta: nombre. Valor:Francis Albert Sinatra
+       - Etiqueta: nombre_artistico. Valor:Frank Sinatra
+       - Etiqueta: nacionalidad. Valor:Estados Unidos
+       - Etiqueta: Género. Valor:Pop tradicional
+       - Etiqueta: edad. Valor:82
+       - Etiqueta: Albumes. Valor:60
+    -Cantante - id 9
+       - Etiqueta: nombre. Valor:Mauro Ezequiel Lombardo Quiroga
+       - Etiqueta: nombre_artistico. Valor:Duki
+       - Etiqueta: nacionalidad. Valor:Argentina
+       - Etiqueta: Género. Valor:Urbano
+       - Etiqueta: edad. Valor:27
+       - Etiqueta: Albumes. Valor:6
+    -Cantante - id 10
+       - Etiqueta: nombre. Valor:Ray Charles Robinson
+       - Etiqueta: nombre_artistico. Valor:Ray Charles
+       - Etiqueta: nacionalidad. Valor:Estados Unidos
+       - Etiqueta: Género. Valor:Jazz
+       - Etiqueta: edad. Valor:73
+       - Etiqueta: Albumes. Valor:48
